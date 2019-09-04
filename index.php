@@ -37,43 +37,28 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Carahsoft Technical Team</h2>
 
 <table>
   <tr>
-    <th>Company</th>
     <th>Contact</th>
-    <th>Country</th>
+    <th>Phone</th>
   </tr>
   <tr>
-    <td>Carahsoft</td>
     <td>Alex Sullivan</td>
-    <td>Germany</td>
+    <td>703-889-9776</td>
   </tr>
   <tr>
-    <td>Carahsoft</td>
     <td>Ethan Palmer</td>
-    <td>Mexico</td>
+    <td>703-230-7542</td>
   </tr>
   <tr>
-    <td>Carahsoft</td>
     <td>Nick Wagner</td>
-    <td>Austria</td>
+    <td>703-581-6615</td>
   </tr>
   <tr>
-    <td>Carahsoft</td>
     <td>Olivia Yarosh</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>571-662-4645</td>
   </tr>
 </table>
 
